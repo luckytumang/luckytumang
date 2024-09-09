@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luckytumang
 - 👀 I’m interested in Workflows, AI
-- 🌱 I’m currently learning Python, React, NextJS
+- 🌱 I’m currently learning React Native, React, Expo, NextJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tumangshenyon@pm.me
 
